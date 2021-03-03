@@ -11,7 +11,7 @@ aplikasi reflexy / pijat
 
 ![main menu](https://user-images.githubusercontent.com/61179346/109252707-208c7400-7829-11eb-8c52-320b293bab1b.jpg)
 
-**Rport**
+**Report**
 
 ![report](https://user-images.githubusercontent.com/61179346/109252708-21250a80-7829-11eb-89b0-429cf89d15eb.jpg)
 
